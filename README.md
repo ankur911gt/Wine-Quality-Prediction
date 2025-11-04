@@ -249,15 +249,6 @@ jupyter notebook Wine.ipynb
 - Model deployment pipeline
 - Real-time prediction API
 
-## 📝 License
 
-This project is open source and available for educational purposes.
 
-## 👤 Author
-
-Developed as part of a machine learning project for wine quality prediction.
-
----
-
-**Note**: This project is for educational and demonstration purposes. Results may vary based on dataset characteristics and model configurations.
 
